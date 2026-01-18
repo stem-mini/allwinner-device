@@ -20,3 +20,4 @@ bin/u-boot-*.bin
 configs/*/board.dts
 .*
 !.gitignore
+
